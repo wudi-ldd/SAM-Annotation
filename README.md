@@ -30,8 +30,8 @@ Welcome to our repository that focuses on efficient and precise annotation and s
 **Step 2**: Modify the following lines in `utils\file_functions.py` according to the chosen weight type:
 <pre>
 ```python
-        sam_checkpoint = "checkpoints\sam_vit_h_4b8939.pth"
-        model_type = "vit_h"
+   sam_checkpoint = "checkpoints\sam_vit_h_4b8939.pth"
+   model_type = "vit_h"
 ```
 </pre>
 
