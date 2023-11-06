@@ -1,5 +1,5 @@
 # SAM_Annotation
-\begin{verbatim}
+
 # Dense Sandstone Image Annotation with SegmenAnything (SAM)
 
 Welcome to our repository that focuses on efficient and precise annotation and segmentation of dense sandstone images. This codebase is dedicated to the data annotation tool designed using PyQt5. For the UNet image segmentation part and the fine-tuning of the SAM model, please refer to our other repositories.
@@ -25,7 +25,7 @@ Welcome to our repository that focuses on efficient and precise annotation and s
 
 ## Model Usage Instructions
 
-**Step 1**: Download the pre-trained weights of the SAM model and place them in the `checkpoints` folder. [Download Link](link_to_model_weights)
+**Step 1**: Download the pre-trained weights of the SAM model and place them in the `checkpoints` folder. [Download Link](https://github.com/facebookresearch/segment-anything)
 
 **Step 2**: Modify the following lines in `utils\file_functions.py` according to the chosen weight type:
 
