@@ -28,10 +28,16 @@ Welcome to our repository that focuses on efficient and precise annotation and s
 **Step 1**: Download the pre-trained weights of the SAM model and place them in the `checkpoints` folder. [Download Link](https://github.com/facebookresearch/segment-anything)
 
 **Step 2**: Modify the following lines in `utils\file_functions.py` according to the chosen weight type:
+<pre>
+```python
+        sam_checkpoint = "checkpoints\sam_vit_h_4b8939.pth"
+        model_type = "vit_h"
+```
+</pre>
 
-For detailed instructions, refer to the [SAM Official Website](link_to_sam_official_website).
+For detailed instructions, refer to the [SAM Official Website](https://github.com/facebookresearch/segment-anything).
 
-**Step 3**: For fine-tuning the SAM model, you can refer to my other article: [Link to Article](link_to_article)
+**Step 3**: For fine-tuning the SAM model, you can refer to my other article: [Link to Article](https://github.com/wudi-ldd/FineTuneSAM-with-Bounding-Box)
 
 ## Shortcuts
 
@@ -41,16 +47,17 @@ For detailed instructions, refer to the [SAM Official Website](link_to_sam_offic
 - **E**: Finish annotation and save the current mask state.
 
 ## Installation
-
-[Provide installation instructions here]
+"Download and run directly"
+<pre>
+```python
+python main.py
+```
+</pre>
 
 ## Contributing
 
 We welcome contributions to this project. If you have suggestions, bug reports, or want to contribute, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-\end{verbatim}
 
 
