@@ -14,10 +14,10 @@ Welcome to our repository that focuses on efficient and precise annotation and s
 ## Visualization of SAM Model Fine-Tuning
 
 1. **Before Fine-Tuning**:  
-   ![Before Fine-Tuning GIF](Demonstration/Before-Fine-Tuning.gif)  
+   ![Before Fine-Tuning GIF](1.gif)  
 
 2. **After Fine-Tuning**:  
-   ![After Fine-Tuning GIF](Demonstration/After-Fine-Tuning.gif)  
+   ![After Fine-Tuning GIF](2.gif)  
 
 ## Model Usage Instructions
 
