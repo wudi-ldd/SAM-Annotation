@@ -6,7 +6,7 @@ Welcome to our repository that focuses on efficient and precise annotation and s
 
 [FineTuneSAM-with-Bounding-Box](https://github.com/wudi-ldd/FineTuneSAM-with-Bounding-Box).
 
-[FineTuneSAM-with-Bounding-Box](https://github.com/wudi-ldd/FineTuneSAM-with-Bounding-Box).
+[U-Net_for_Tight_Sandstone_Image_Segmentation](https://github.com/wudi-ldd/U-Net_for_Tight_Sandstone_Image_Segmentation).
 
 ## Key Features
 
