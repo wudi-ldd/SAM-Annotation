@@ -28,12 +28,10 @@ Welcome to our repository that focuses on efficient and precise annotation and s
 **Step 1**: Download the pre-trained weights of the SAM model and place them in the `checkpoints` folder. [Download Link](https://github.com/facebookresearch/segment-anything)
 
 **Step 2**: Modify the following lines in `utils\file_functions.py` according to the chosen weight type:
-<pre>
 ```python
    sam_checkpoint = "checkpoints\sam_vit_h_4b8939.pth"
    model_type = "vit_h"
 ```
-</pre>
 
 For detailed instructions, refer to the [SAM Official Website](https://github.com/facebookresearch/segment-anything).
 
