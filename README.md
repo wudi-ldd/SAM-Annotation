@@ -48,11 +48,9 @@ For detailed instructions, refer to the [SAM Official Website](https://github.co
 
 ## Installation
 "Download and run directly"
-<pre>
 ```python
 python main.py
 ```
-</pre>
 
 ## Contributing
 
