@@ -1,16 +1,16 @@
 # SAM_Annotation
 
-# Tight Sandstone Image Annotation with SegmenAnything (SAM)
+# Image Annotation with SegmenAnything (SAM)
 
-Welcome to our repository that focuses on efficient and precise annotation and segmentation of tight sandstone images. This codebase is dedicated to the data annotation tool designed using PyQt5. For the UNet image segmentation part and the fine-tuning of the SAM model, please refer to our other repositories.
+Welcome to our repository that focuses on efficient and precise annotation and segmentation of semantic segmentation. This codebase is dedicated to the data annotation tool designed using PyQt5. For the UNet image segmentation part and the fine-tuning of the SAM model, please refer to our other repositories.
 
-[FineTuneSAM-with-Bounding-Box](https://github.com/wudi-ldd/FineTuneSAM-with-Bounding-Box).
+[FineTuneSAM-with-Bounding-Box](https://github.com/wudi-ldd/Fine-Tuning-SAM).
 
-[U-Net_for_Tight_Sandstone_Image_Segmentation](https://github.com/wudi-ldd/U-Net_for_Tight_Sandstone_Image_Segmentation).
+[U-Net](https://github.com/wudi-ldd/U-Net).
 
 ## Key Features
 
-- **Point Annotation**: Utilize minimal points to define complex structures in tight sandstone images.
+- **Point Annotation**: Utilize minimal points to define complex structures in tight sandstone image pores.
 - **Data Masking**: Accurately generate masks that are crucial for further analysis or machine learning applications.
 - **Efficiency**: Expedite the annotation process without compromising on precision.
 - **Customizable**: Flexible tool design to suit various annotation needs.
