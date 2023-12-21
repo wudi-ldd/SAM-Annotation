@@ -31,7 +31,7 @@ Welcome to our repository that focuses on efficient and precise annotation and s
 
 For detailed instructions, refer to the [SAM Official Website](https://github.com/facebookresearch/segment-anything).
 
-**Step 3**: For fine-tuning the SAM model, you can refer to my other article: [Link to Article](https://github.com/wudi-ldd/FineTuneSAM-with-Bounding-Box)
+**Step 3**: For fine-tuning the SAM model, you can refer to my other article: [Link to Article](https://github.com/wudi-ldd/Fine-Tuning-SAM)
 
 ## Shortcuts
 
