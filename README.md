@@ -15,13 +15,9 @@ Welcome to our repository that focuses on efficient and precise annotation and s
 - **Efficiency**: Expedite the annotation process without compromising on precision.
 - **Customizable**: Flexible tool design to suit various annotation needs.
 
-## Visualization of SAM Model Fine-Tuning
+## Visualization of SAM Annotation
 
-1. **Before Fine-Tuning**:  
-   ![Before Fine-Tuning GIF](Demonstration/1.gif)  
-
-2. **After Fine-Tuning**:  
-   ![After Fine-Tuning GIF](Demonstration/2.gif)  
+   ![Annotation GIF](Demonstration/1.gif)  
 
 ## Model Usage Instructions
 
